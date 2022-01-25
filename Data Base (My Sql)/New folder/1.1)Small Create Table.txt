@@ -1,0 +1,1 @@
+create table student(ID int ,Name varchar(20),Age varchar(20),Gender varchar(10);

@@ -1,0 +1,9 @@
+UPDATE student_details
+SET City='Nalua'
+WHERE Roll=11
+
+
+
+UPDATE student_details
+SET GPA=3
+WHERE Roll=11

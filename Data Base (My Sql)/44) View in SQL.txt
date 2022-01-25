@@ -1,0 +1,11 @@
+
+
+CREATE VIEW teacher2 AS
+SELECT name,Salary,age
+FROM teacher
+
+#  show table code
+
+
+SELECT*
+FROM teacher2

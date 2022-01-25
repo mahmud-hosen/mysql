@@ -1,0 +1,24 @@
+CREATE TABLE teacher
+(
+    
+    
+    ID int NOT Null AUTO_INCREMENT,
+    Name varchar(20) NOT Null,
+    Salary double (10,2),
+    PRIMARY KEY (ID)
+    
+    
+    
+    );
+
+
+
+
+INSERT INTO teacher (Name,Salary)
+VALUES('Mahmud','200000')
+
+
+
+
+INSERT INTO teacher (Name)
+VALUES('Hasan')

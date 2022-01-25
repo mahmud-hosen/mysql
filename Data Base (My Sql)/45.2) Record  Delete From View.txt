@@ -1,0 +1,4 @@
+
+
+DELETE FROM teacher2
+WHERE name='Karim';

@@ -1,0 +1,18 @@
+ create table project(id int primary key,title varchar(20) unique,student_id int,foreign key(student_id) references student(id) on delete cascade on update set null);
+
+
+
+
+
+
+ 
+ insert into project values(3,'xvx',3);
+ insert into project values(4,'hks',4);
+ insert into project values(5,'ysy',5);
+ insert into project values(6,'wtw',6);
+ insert into project values(7,'axsd',7);
+
+
+insert into project values(8,'mahmud',8);
+insert into project values(9,'kabir',9);
+insert into project values(10,'nahid',10);

@@ -1,0 +1,3 @@
+UPDATE teacher
+SET dept='CSE'
+WHERE ID=101

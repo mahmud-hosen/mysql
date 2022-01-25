@@ -1,0 +1,2 @@
+SELECT Name,GPA,Roll FROM student_details
+SELECT* FROM student_details

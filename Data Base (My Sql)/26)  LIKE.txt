@@ -1,0 +1,21 @@
+SELECT*
+FROM student_details
+WHERE  Name LIKE'M%'
+
+
+
+SELECT*
+FROM student_details
+WHERE  Name LIKE'%UD%'
+
+
+
+SELECT*
+FROM student_details
+WHERE  Name LIKE'__h%'
+
+
+
+SELECT*
+FROM student_details
+WHERE  Name LIKE'%u_'

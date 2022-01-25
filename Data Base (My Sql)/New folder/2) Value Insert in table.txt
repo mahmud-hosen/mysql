@@ -1,0 +1,16 @@
+INSERT INTO Student (id, name, email, age, address) 
+VALUES ( '1','HASAN', 'naim15-1793@diu.edu.bd',29, 'tANGAIL');
+INSERT INTO Student VALUES ( '2','MOIY', 'Hasib15-1777@diu.edu.bd',1, 'nalua');
+INSERT INTO Student VALUES ( '3','RipTO', 'hasan@gmail.com',21, 'Dhaka');
+INSERT INTO Student VALUES ( '4','Foisalhasan', 'foisal@gmail.com',18, 'DHAKA');
+INSERT INTO Student VALUES ( '5','mahmud', 'mahmud@gmail.com',2,'Nalua');
+INSERT INTO Student VALUES ( '6','Sheikh Siddik', 'siddik@gmail.com',24, 'BUGRA');
+INSERT INTO Student VALUES ( '7',' Rahman', 'tarek@gmail.com',33,'dhaka');
+INSERT INTO Student VALUES ( '8','MAHMUD', 'shafin@gmail.com',44,'SHAKHIPUR');
+INSERT INTO Student VALUES ( '9','MOIY', 'Hasib15-1777@diu.edu.bd',1, 'nalua');
+INSERT INTO Student VALUES ( '10','RipTO', 'hasan@gmail.com',21, 'Dhaka');
+INSERT INTO Student VALUES ( '11','Foisalhasan', 'foisal@gmail.com',18, 'DHAKA');
+INSERT INTO Student VALUES ( '12','mahmud', 'mahmud@gmail.com',2,'Nalua');
+INSERT INTO Student VALUES ( '13','Sheikh Siddik', 'siddik@gmail.com',24, 'BUGRA');
+INSERT INTO Student VALUES ( '14',' Rahman', 'tarek@gmail.com',33,'dhaka');
+INSERT INTO Student VALUES ( '15','MAHMUD', 'shafin@gmail.com',44,'SHAKHIPUR');

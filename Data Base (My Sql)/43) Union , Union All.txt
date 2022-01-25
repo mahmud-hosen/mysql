@@ -1,0 +1,16 @@
+SELECT roll,name,gender,age
+FROM sylhet_tour
+UNION
+SELECT roll,name,gender,age
+FROM dhaka_tour
+
+
+UNION  All
+
+
+
+SELECT roll,name,gender,age
+FROM sylhet_tour
+UNION ALL
+SELECT roll,name,gender,age
+FROM dhaka_tour

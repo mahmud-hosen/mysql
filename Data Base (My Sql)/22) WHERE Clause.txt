@@ -1,0 +1,1 @@
+SELECT City FROM student_details WHERE Gender='Female'

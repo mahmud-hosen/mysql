@@ -1,0 +1,6 @@
+SELECT std.Roll,std.Name,std.GPA,std.City,
+       exam.Gpa,exam.groups
+
+FROM student_details as std JOIN 
+     exam___details exam
+ON std.Roll= exam.Roll;

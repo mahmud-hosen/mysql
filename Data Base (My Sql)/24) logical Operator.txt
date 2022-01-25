@@ -1,0 +1,13 @@
+SELECT * 
+FROM student_details
+WHERE Roll>=103 AND GPA=4
+
+
+
+
+
+SELECT * 
+FROM student_details
+WHERE City ='Dhaka'
+      AND 
+      (Gender='mail' or GPA >=3.5)

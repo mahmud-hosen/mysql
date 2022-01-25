@@ -1,0 +1,16 @@
+SELECT student_details.Roll,Name,Gender,Age,City,groups
+from student_details,exam___details
+WHERE student_details.Roll = exam___details.Roll;
+
+
+or  
+
+
+
+SELECT std.Roll,std.Name,std.GPA,std.City,
+       exam.Gpa,exam.groups
+
+FROM student_details as std , 
+     exam___details exam
+     
+ WHERE std.Roll= exam.Roll;

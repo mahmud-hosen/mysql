@@ -1,0 +1,12 @@
+ create table student(id int primary key,name varchar(20) not null);
+
+
+
+
+ insert into student values(2,'mahmud');
+ insert into student values(3,'jamal');
+ insert into student values(4,'rahim');
+ insert into student values(5,'kabir');
+ insert into student values(6,'nahid');
+ insert into student values(7,'mahmud');
+ insert into student values(8,'kabir');

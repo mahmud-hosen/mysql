@@ -1,0 +1,4 @@
+SELECT*
+FROM teacher
+WHERE Salary>(SELECT AVG(salary)
+FROM teacher)

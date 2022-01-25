@@ -1,0 +1,3 @@
+SELECT Roll,Name,GPA
+FROM student_details
+WHERE Roll BETWEEN 102 AND 110

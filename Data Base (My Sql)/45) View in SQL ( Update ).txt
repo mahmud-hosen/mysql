@@ -1,0 +1,9 @@
+Update : 
+
+
+UPDATE student_view
+SET name='jamal'
+WHERE roll=102;
+
+
+

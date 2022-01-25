@@ -1,0 +1,43 @@
+concat :
+
+SELECT CONCAT(Name,'is ' ,Age, 'years old')
+FROM student_details;
+
+
+Greatest :
+
+SELECT greatest(10,90,4,7)
+
+Least : 
+
+SELECT least(10,90,-4,7)
+
+
+power: 
+
+SELECT pow(2,4)
+
+Log : 
+
+SELECT log(2)
+
+log10 :
+SELECT 10log(2)
+
+Truncate:
+
+SELECT TRUNCATE(5.69854788,3)
+
+Random:
+SELECT rand()
+
+Exp :
+SELECT exp(3)
+
+
+
+
+
+
+
+

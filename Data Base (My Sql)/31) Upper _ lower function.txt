@@ -1,0 +1,15 @@
+SELECT UPPER('My name is mahmud')
+
+
+
+SELECT lower('My name is mahmud')
+
+
+
+SELECT upper(Name)
+FROM student_details
+
+
+
+SELECT upper(Name) as City_new_name
+FROM student_details

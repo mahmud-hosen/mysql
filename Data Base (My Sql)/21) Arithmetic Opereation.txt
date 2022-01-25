@@ -1,0 +1,7 @@
+SELECT 5+4;
+
+SELECT 5*2;
+
+SELECT 9/3;
+
+SELECT 9*5;

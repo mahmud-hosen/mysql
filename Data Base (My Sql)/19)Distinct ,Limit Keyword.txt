@@ -1,0 +1,6 @@
+SELECT DISTINCT City FROM student_details
+
+
+
+SELECT* FROM student_details
+LIMIT 2,3

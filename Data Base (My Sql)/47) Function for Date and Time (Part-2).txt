@@ -1,0 +1,14 @@
+# 
+SELECT dayname('2020-1-14');
+
+#
+
+SELECT monthname('2020-1-14');
+
+
+# Show Day from table 
+
+
+
+SELECT DOB,dayname(DOB)
+FROM student_details

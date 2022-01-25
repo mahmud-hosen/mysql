@@ -1,0 +1,11 @@
+ADD Column :
+
+ALTER TABLE teacher
+ADD Dept varchar(20)
+
+
+Rename Column :
+ALTER TABLE teacher
+CHANGE Dept Department varchar(20)
+
+

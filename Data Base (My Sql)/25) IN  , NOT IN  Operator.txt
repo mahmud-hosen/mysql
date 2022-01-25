@@ -1,0 +1,11 @@
+SELECT * 
+FROM `student_details` 
+WHERE City IN ('nalua','rangpur')
+
+
+
+SELECT * 
+FROM `student_details` 
+WHERE City NOT IN ('nalua','rangpur')
+
+

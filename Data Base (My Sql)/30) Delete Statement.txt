@@ -1,0 +1,2 @@
+DELETE FROM student_details
+WHERE Roll =106

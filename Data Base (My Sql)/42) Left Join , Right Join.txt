@@ -1,0 +1,11 @@
+Left Join : 
+
+SELECT std.Roll,std.Name,std.Age,exam.groups
+FROM student_details as std left JOIN exam___details as exam
+ON std.Roll=exam.Roll
+
+Right Join : 
+
+SELECT std.Roll,std.Name,std.Age,exam.groups
+FROM student_details as std Right JOIN exam___details as exam
+ON std.Roll=exam.Roll

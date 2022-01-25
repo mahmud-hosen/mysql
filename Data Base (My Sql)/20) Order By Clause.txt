@@ -1,0 +1,4 @@
+SELECT Name FROM student_details ORDER BY Name asc
+
+
+SELECT Name,Roll FROM student_details ORDER BY Name DESC;

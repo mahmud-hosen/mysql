@@ -1,0 +1,13 @@
+
+Data :
+
+SELECT CURRENT_DATE();
+
+Time :
+
+SELECT CURRENT_TIME();
+
+
+Data With  Time : 
+
+SELECT now();
