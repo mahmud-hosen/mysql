@@ -1,7 +1,7 @@
 # 
 SELECT dayname('2020-1-14');
 
-#
+#  YYYY-MM-DD
 
 SELECT monthname('2020-1-14');
 

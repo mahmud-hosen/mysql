@@ -7,8 +7,5 @@ CREATE TABLE student
     GPA double (3,2),
     City varchar(10),
     PRIMARY KEY(Roll)
-    
-    
-    
-    
+
     );
